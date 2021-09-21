@@ -9,7 +9,7 @@ $this->title = 'My Yii Application';
     <div class="jumbotron text-center bg-transparent">
         <h1 class="display-4">Congratulations!</h1>
 
-        <p class="lead">Testing if it works.</p>
+        <p class="lead">Now let's see what happens</p>
 
         <p><a class="btn btn-lg btn-success" href="http://www.yiiframework.com">Get started with Yii</a></p>
     </div>
