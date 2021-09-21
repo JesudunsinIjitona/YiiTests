@@ -4,7 +4,7 @@ namespace tests\unit\models;
 
 use app\models\LoginForm;
 
-class LoginFormTest extends \Codeception\Test\Unit
+class LoginFormTest extends \Codeception\Test\Unitss
 {
     private $model;
 
