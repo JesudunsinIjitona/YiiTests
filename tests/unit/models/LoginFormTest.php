@@ -7,8 +7,7 @@ use app\models\LoginForm;
 class LoginFormTest extends \Codeception\Test\Unit
 {
     private $model;
-
-    
+	
     protected function _after()
     {
         \Yii::$app->user->logout();
